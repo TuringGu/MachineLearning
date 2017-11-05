@@ -1,0 +1,7 @@
+﻿  stdafx.cpp
+  Main.cpp
+d:\work\vsworkspace\machinelearning\machinelearning\main.cpp(196): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  d:\work\vsworkspace\machinelearning\machinelearning\main.cpp(187): note: while compiling class template member function 'void KMEANS<double>::randCent(void)'
+  d:\work\vsworkspace\machinelearning\machinelearning\main.cpp(383): note: see reference to function template instantiation 'void KMEANS<double>::randCent(void)' being compiled
+  d:\work\vsworkspace\machinelearning\machinelearning\main.cpp(380): note: see reference to class template instantiation 'KMEANS<double>' being compiled
+  MachineLearning.vcxproj -> D:\work\VSWorkspace\MachineLearning\Debug\KMeans.exe
